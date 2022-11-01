@@ -246,8 +246,8 @@ function getMode(array){
     }
     console.log(sumCount);
     
-    let valuesArray = Object.values(sumCount);
     let keysArray = Object.keys(sumCount);
+    let valuesArray = Object.values(sumCount);
     let mostRepeated = 0;
     let mode = 0;
 

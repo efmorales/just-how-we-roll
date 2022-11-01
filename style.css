@@ -1,3 +1,7 @@
+html {
+    font-family:'Roboto', sans-serif;
+}
+
 #reset-button:focus{
     outline: none;
 }
